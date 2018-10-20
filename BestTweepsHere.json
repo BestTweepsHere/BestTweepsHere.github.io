@@ -422,5 +422,13 @@ var data=[
     "profile_pic": "https://pbs.twimg.com/profile_images/1034096511557222401/7QABlQiV_400x400.jpg",
     "category": "Artist",
     "website": "https://www.oliviakemp.co.uk/"
+  },
+  {
+    "handle_name": "https://twitter.com/G_Singh_B",
+    "display_name": "Gurekbal Bhachu",
+    "bio": "Self-taught Artist. Currently closed for commissions/requests. For information regarding originals, please email: info@gsinghb.com",
+    "profile_pic": "https://pbs.twimg.com/profile_images/986826478150090752/cLteqijX_400x400.jpg",
+    "category": "Artist",
+    "website": "https://www.gurekbal.com/"
   }
 ]
