@@ -1,0 +1,410 @@
+var data=[
+  {
+    "handle_name": "https://twitter.com/being_hari",
+    "display_name": "ஹரன்",
+    "bio": "என் மகிழ்ச்சிக்காக யாரையும் உபயோகித்துக்கொண்டிருக்கவில்லை என்ற ஒரு காரணத்துக்காக வேண்டுமெனில் மகிழ்ந்து கொள்கிறேன்..",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1042665636235603968/ysU6Kwe1_400x400.jpg",
+    "category": "Poems, General"
+  },
+  {
+    "handle_name": "https://twitter.com/WriterAravindh",
+    "display_name": "aravindhskumar",
+    "bio": "Writer, Scriptwriter, Translator of Conversation with Maniratnam, Winner of Sujatha award",
+    "location": "N 21°9' 0'' / E 72°39' 0''",
+    "profile_pic": "https://pbs.twimg.com/profile_images/476951747772948480/C6WiX0JL_400x400.jpeg",
+    "category": "Writer, Blogger"
+  },
+  {
+    "handle_name": "https://twitter.com/erode_kathir",
+    "display_name": "ஈரோடு கதிர்",
+    "bio": "நகரத்து மண்ணில் பாய்ந்த கிராமத்து வேர்",
+    "location": "Erode",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1040262581435260929/XXuSFEOC_400x400.jpg",
+    "category": "General"
+  },
+  {
+    "handle_name": "https://twitter.com/chenthil_nathan",
+    "display_name": "செந்தில் / Chenthil",
+    "bio": "Poetry, Books,Booze. Truck fleet owner. Tweets in English and Tamil. I translate Classical Tamil Poetry at @oldtamilpoetry",
+    "location": "Thoothukudi / Chennai",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1002466763097890816/q8RmzZVq_400x400.jpg",
+    "category": "Reading, Books, Writing"
+  },
+  {
+    "handle_name": "https://twitter.com/pgovi1",
+    "display_name": "கவிஞர் மகுடேசுவரன்",
+    "bio": "கவிஞர், எழுத்தாளர்.",
+    "location": "Tiruppur, India",
+    "profile_pic": "https://pbs.twimg.com/profile_images/463509173792026624/pgAz49Ah_400x400.jpeg",
+    "category": "Writing"
+  },
+  {
+    "handle_name": "https://twitter.com/frankklinkumar",
+    "display_name": "franklin kumar",
+    "bio": "ம்மா அப்பா டீச்சர் நண்பன் சினிமா காதலி கிரிக்கெட் கவிதை மனைவி மகள் நிலா இலக்கு போராட்டம் இசை கடல் திட்டம் துட்டு பயணம் வானம் மஞ்சள் காமம் சிலுவை மரணம் தேநீர்",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1001677191535611904/8tYZdYAO_400x400.jpg",
+    "category": "Writing"
+  },
+  {
+    "handle_name": "https://twitter.com/viduthalainews",
+    "display_name": "VIDUTHALAI - விடுதலை நாளிதழ்",
+    "bio": "The daily newspaper உலகின் ஒரே பகுத்தறிவு நாளேடு - திராவிடர் கழகம் - பெரியார் - வீரமணி - திராவிடர் இயக்கம் - பகுத்தறிவு - Periyar-veeramani-dravidarkazhagam",
+    "location": "chennai",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1002398963272544256/IH3VADjR_400x400.jpg",
+    "category": "News, Rationalist, Society"
+  },
+  {
+    "handle_name": "https://twitter.com/KATHAIKALPDF",
+    "display_name": "முகமூடி வீரன் மாயாவி",
+    "bio": "உங்களை சற்று நேரம் சிறுவனாகவோ சிறுமியாகவோ மாற்றும் சக்தி கொண்டவன் நான் ( @iamosthi2 )",
+    "location": "United Kingdom",
+    "profile_pic": "https://pbs.twimg.com/profile_images/984752924487172101/b_QRnMZP_400x400.jpg",
+    "category": "Writing, Reading, Book"
+  },
+  {
+    "handle_name": "https://twitter.com/spinesurgeon",
+    "display_name": "Bruno Mascarenhas",
+    "bio": "Doctor from India, Author of Medical Books, Blogger, Web Designer, Stereotaxy, Endoscopy, Key Hole Neuro Surgery, Neurosciences, Public Health and Traumacare",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/55307059/blogbruno_400x400.jpg",
+    "category": "Medicine, Writing, Blogging"
+  },
+  {
+    "handle_name": "https://twitter.com/MandramOrg",
+    "display_name": "மன்றம்",
+    "bio": "சிந்தனைகளை விரிவாக்கத் தமிழில் ஒரு மேடை",
+    "location": "Bengaluru South, India",
+    "profile_pic": "https://pbs.twimg.com/profile_images/953672768955887616/Yq8Y2w5Q_400x400.jpg",
+    "category": "General"
+  },
+  {
+    "handle_name": "https://twitter.com/psankar",
+    "display_name": "psankar",
+    "bio": "Interests on FOSS, தமிழ், Programming; Most recently: Startups",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/964089439214448640/qpxQI9KY_400x400.jpg",
+    "category": "Tech, Blogging"
+  },
+  {
+    "handle_name": "https://twitter.com/skpkaruna",
+    "display_name": "SKP KARUNA",
+    "bio": "பிறப்பொக்கும் எல்லா உயிர்க்கும்",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1042610167819329537/m_ZdGBW4_400x400.jpg",
+    "category": "General"
+  },
+  {
+    "handle_name": "https://twitter.com/shankaruppusamy",
+    "display_name": "Shan Karuppusamy",
+    "bio": "Writer & Learning Technology Evangelist working with Origin Learning Solutions as Senior Director - Technology.",
+    "location": "Chennai",
+    "profile_pic": "https://pbs.twimg.com/profile_images/3265355730/877c7f3467e0facadb7c1ec68cec86ae_400x400.jpeg",
+    "category": "Tech, Blogging, Writing"
+  },
+  {
+    "handle_name": "https://twitter.com/BalaramanL",
+    "display_name": "Balaraman",
+    "bio": "Entrepreneur. Researcher. Tamil Blogger. Short-film maker/writer/actor in @Kalaipori. Editor in @cookploration. More info: http://about.me/BalaramanL",
+    "location": "Bengaluru, India",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1043841941358727168/HrREvuPr_400x400.jpg",
+    "category": "Tech, Blogging, Cooking"
+  },
+  {
+    "handle_name": "https://twitter.com/japan_raghu",
+    "display_name": "ஜப்பான் ரகு®",
+    "bio": "|நேர்மை~நாணயம்~நம்பிக்கை|கொங்கு🇮🇳& ஜப்பான்🇯🇵 மண்டலம்💕Proud GCT-ian .Check my Likes & Flickr https://flic.kr/s/aHsjXZLS6q",
+    "location": "Tokyo,Japan",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1036880806365417472/8pN1MqT__400x400.jpg",
+    "category": "Photography"
+  },
+  {
+    "handle_name": "https://twitter.com/vantherimadu",
+    "display_name": "வந்தேறி மாடு",
+    "bio": "நாட்டு சாதி மாடுகளை அடியோடு அழிக்க வந்த வந்தேறி மாடு",
+    "location": "New Jersey",
+    "profile_pic": "https://pbs.twimg.com/profile_images/853231931693158400/YKa3aIMe_400x400.jpg",
+    "category": "Politics"
+  },
+  {
+    "handle_name": "https://twitter.com/marxisttamil",
+    "display_name": "Marxist",
+    "bio": "Official Twitter handle of Marxist (Tamil) monthly theoretical magazine.",
+    "location": "Tamilnadu",
+    "profile_pic": "https://pbs.twimg.com/profile_images/851391819866931201/XT0m767s_400x400.jpg",
+    "category": "Politics"
+  },
+  {
+    "handle_name": "https://twitter.com/KaniyamMagazine",
+    "display_name": "Kaniyam Magazine",
+    "bio": "Tamil e-magazine on FOSS and other open technologies.",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/2241172060/535px-Heckert_GNU_white.svg_400x400.png",
+    "category": "Tech"
+  },
+  {
+    "handle_name": "https://twitter.com/aazhisenthil",
+    "display_name": "Aazhi Senthilnathan",
+    "bio": "Aazhi Publishers",
+    "location": "Chennai",
+    "profile_pic": "https://pbs.twimg.com/profile_images/966597408837660674/eifEn67W_400x400.jpg",
+    "category": "Society"
+  },
+  {
+    "handle_name": "https://twitter.com/real_kadavul",
+    "display_name": "கடவுள்",
+    "bio": "நானும் உங்கள 60000 வருசமா பாத்துட்டுதான்டா இருக்கேன் ஒருத்தன்கூட தேர மாட்டீங்க",
+    "location": "எங்கேயும்",
+    "profile_pic": "https://pbs.twimg.com/profile_images/579341194716536832/blUXC-vz_400x400.jpg",
+    "category": "General"
+  },
+  {
+    "handle_name": "https://twitter.com/JLC1956",
+    "display_name": "Jean-Luc Chevillard",
+    "bio": "French researcher (at #CNRS), I explore the history of #Tamil grammatical (more precisely #śāstric) traditions as part of the global history of exact sciences.",
+    "location": "Paris (France)",
+    "profile_pic": "https://pbs.twimg.com/profile_images/491626352/JLC__2009__400x400.JPG",
+    "category": "Tamil"
+  },
+  {
+    "handle_name": "https://twitter.com/tshrinivasan",
+    "display_name": "த.சீனிவாசன்",
+    "bio": "A Linux Lover. Editor of free software magazine in Tamil http://kaniyam.com  Free Tamil Ebook Publisher at http://FreeTamilEbooks.com",
+    "location": "Chennai / Kanchipuram",
+    "profile_pic": "https://pbs.twimg.com/profile_images/649774814144655361/KL5-xUYD_400x400.jpg",
+    "category": "Tech, Writing, Blogger"
+  },
+  {
+    "handle_name": "https://twitter.com/Periyaarism",
+    "display_name": "தோழர் பெரியார்",
+    "bio": "மானமும் அறிவும் மனிதனுக்கு அழகு!",
+    "location": "தமிழ்நாடு, திராவிடநாடு",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1009323448554815488/jEOiICfU_400x400.jpg",
+    "category": "Social"
+  },
+  {
+    "handle_name": "https://twitter.com/bhaskarvasugi",
+    "display_name": "VASUGI BHASKAR",
+    "bio": "-",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1040181739488833537/hUoIHXaI_400x400.jpg",
+    "category": "Social"
+  },
+  {
+    "handle_name": "https://twitter.com/karupalaniappan",
+    "display_name": "கரு பழனியப்பன்",
+    "bio": "Karu Palaniappan",
+    "location": "chennai",
+    "profile_pic": "https://pbs.twimg.com/profile_images/509334671008612352/zSwX1rJK_400x400.jpeg",
+    "category": "Social, Cinema"
+  },
+  {
+    "handle_name": "https://twitter.com/The_Vanitha",
+    "display_name": "VANITHA S",
+    "bio": "love drawing and painting.  Artist Cricket Lover",
+    "location": "Tiruchirapalli, India",
+    "profile_pic": "https://pbs.twimg.com/profile_images/908701139096322051/9J3HSzfT_400x400.jpg",
+    "category": "Artist"
+  },
+  {
+    "handle_name": "https://twitter.com/Aasifniyaz",
+    "display_name": "Aasif",
+    "bio": "படித்ததில் நம்புவது: யாதும் ஊரே, யாவரும் கேளிர் ; பிறப்பொக்கும் எல்லா உயிர்க்கும் ; மானமும் அறிவும் மனிதர்க்கு அழகு.",
+    "location": "Mississauga, Ontario",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1045021095257083904/xwyXijQN_400x400.jpg",
+    "category": "Social"
+  },
+  {
+    "handle_name": "https://twitter.com/PeriyarBooks",
+    "display_name": "Periyar Books",
+    "bio": "One Stop Shop for all books related to Periyar, Dravidian Movement & Social Justice",
+    "location": "Chennai, India",
+    "profile_pic": "https://pbs.twimg.com/profile_images/912356755648032768/2P5LcAG0_400x400.jpg",
+    "category": "Books"
+  },
+  {
+    "handle_name": "https://twitter.com/ikrthik",
+    "display_name": "யாத்திரி",
+    "bio": "உங்களுக்குப் பிடித்தமாதிரி எழுதவேண்டும் என்றால் நீங்கள்தான் எழுதவேண்டும்.",
+    "location": "பரதேசம்",
+    "profile_pic": "https://pbs.twimg.com/profile_images/981754982775963648/lF975ols_400x400.jpg",
+    "category": "Writing"
+  },
+  {
+    "handle_name": "https://twitter.com/kryes",
+    "display_name": "KRS | கரச",
+    "bio": "http://dosa365.wordpress.com ",
+    "location": "New York",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1044925640770826240/jSkfskuo_400x400.jpg",
+    "category": "Tamil, General"
+  },
+  {
+    "handle_name": "https://twitter.com/nchokkan",
+    "display_name": "N. Chokkan",
+    "bio": "Author, Freelance Writer, Translator, Opinions are mine and do not necessarily represent the postings, strategies or opinions of the company I work for",
+    "location": "Bengaluru, India",
+    "profile_pic": "https://pbs.twimg.com/profile_images/745471856719781888/8MPzkOTF_400x400.jpg",
+    "category": "Blogger, Writer, Tech"
+  },
+  {
+    "handle_name": "https://twitter.com/OldTamilPoetry",
+    "display_name": "OldTamilPoetry",
+    "bio": "All of us could do with some ancient wisdom and poetry, don't you agree? Original translations of Classical Tamil Poetry. I am @chenthil_nathan",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/692718393426710528/blsopg3K_400x400.jpg",
+    "category": "Blogger, Tamil"
+  },
+  {
+    "handle_name": "https://twitter.com/sureshsambandam",
+    "display_name": "Suresh Sambandam",
+    "bio": "#Work #FutureOfWork #WorkTrends #DigitalTransformation #BPM #Workflow #Collaboration #Cloud #SaaS #Startups | CEO of @KiSSFLOW & Founder of @OrangeScape",
+    "location": "Chennai, India",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1019171729237860352/Z_n1fMQq_400x400.jpg",
+    "category": "Tech, Social"
+  },
+  {
+    "handle_name": "https://twitter.com/sathishmemes",
+    "display_name": "சதீஷ் மீம்ஸ்",
+    "bio": "#MemeCreator மீம் வழியே தமிழும் , அவ்வப்போது நகைச்சுவையும்.., No actor/political Trolls..☺☺ Look in to Media for memes..😊😊",
+    "location": "Chennai",
+    "profile_pic": "https://pbs.twimg.com/profile_images/834804930837872641/KJ9WKbbT_400x400.jpg",
+    "category": "Tech"
+  },
+  {
+    "handle_name": "https://twitter.com/ckknaturals",
+    "display_name": "CK Kumaravel",
+    "bio": "Entrepreneurs Aim to make naturals the no1 salon chain of world by 2025. Part of Kamalhassan's MNM as executive committee member . @maiamofficial",
+    "location": "Chennai",
+    "profile_pic": "https://pbs.twimg.com/profile_images/986478688920154113/ffWyd5z7_400x400.jpg",
+    "category": "Social"
+  },
+  {
+    "handle_name": "https://twitter.com/FreeTamilEbooks",
+    "display_name": "FreeTamilEbooks",
+    "bio": "Free Ebooks in Tamil Language for kindle, android and computers in Creative Commons license. Read and Share them all.",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/555315792573509632/NxtQtEJt_400x400.jpeg",
+    "category": "Books"
+  },
+  {
+    "handle_name": "https://twitter.com/praddy06",
+    "display_name": "TamilNadu Weatherman",
+    "bio": "A Common man and damn i love rains than anything else, please note that i am not a meteorologist nor an expert in Weather.",
+    "location": "Chennai, India",
+    "profile_pic": "https://pbs.twimg.com/profile_images/592691218674507778/HBHf6G90_400x400.jpg",
+    "category": "News"
+  },
+  {
+    "handle_name": "https://twitter.com/TamilYourstory",
+    "display_name": "YourStory Tamil",
+    "bio": "YourStory is India’s leading media platform for entrepreneurs & the entrepreneurial ecosystem.",
+    "location": "Chennai, India",
+    "profile_pic": "https://pbs.twimg.com/profile_images/925260214621888512/1t4N4D5n_400x400.jpg",
+    "category": "Tech, News"
+  },
+  {
+    "handle_name": "https://twitter.com/madhankarky",
+    "display_name": "Madhan Karky",
+    "bio": "Tamil Lyricist, Dialogue Writer / Tamil Computing Researcher / Author @iPaatti / Founder @KaReFo / Co-Founder & President @doopaadoo / http://facebook.com/Madhankarky",
+    "location": "Chennai, Tamil Nadu",
+    "profile_pic": "https://pbs.twimg.com/profile_images/850197226857123840/yQTTrDUH_400x400.jpg",
+    "category": "Writing, Tamil, Cinema"
+  },
+  {
+    "handle_name": "https://twitter.com/VasagaSalai",
+    "display_name": "வாசகசாலை",
+    "bio": "புத்தகம் பற்றிய விவாதங்கள் மூலம் வாசிப்பு குறித்த புரிதலை மேம்படுத்த இந்த குழுமம். ",
+    "location": "Chennai, India",
+    "profile_pic": "https://pbs.twimg.com/profile_images/922679695987982337/iQV_m0oH_400x400.jpg",
+    "category": "Books, Writing"
+  },
+  {
+    "handle_name": "https://twitter.com/hasifkhan",
+    "display_name": "hasifkhan",
+    "bio": "-",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/856406020914114560/PI02wYXU_400x400.jpg",
+    "category": "General, News, Art"
+  },
+  {
+    "handle_name": "https://twitter.com/ACLChennai",
+    "display_name": "Anna Centenary Library",
+    "bio": "The official twitter page of India's prestigious Anna Centenary Library, known as ACL. The pride of Tamilnadu which was established on September 15, 2010.",
+    "location": "Chennai, India",
+    "profile_pic": "https://pbs.twimg.com/profile_images/847140110667800576/xo0m-ANJ_400x400.jpg",
+    "category": "Books, Writing"
+  },
+  {
+    "handle_name": "https://twitter.com/muyuvaraj",
+    "display_name": "கணிதப் பக்கங்கள்",
+    "bio": "spread the joy of maths...",
+    "location": "சென்னை",
+    "profile_pic": "https://pbs.twimg.com/profile_images/863591730624438272/7Bz3N_Ne_400x400.jpg",
+    "category": "Maths"
+  },
+  {
+    "handle_name": "https://twitter.com/thedonashok",
+    "display_name": "Ashok.R",
+    "bio": "Dialog, Screenwriter in Tamil cinema. Thinker. Humane Human! bohemian!",
+    "location": "Chennai",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1005677599178174464/AJSvZd-j_400x400.jpg",
+    "category": "Cinema"
+  },
+  {
+    "handle_name": "https://twitter.com/karna_sakthi",
+    "display_name": "ச.கருணாநிதி",
+    "bio": "ஒரு மனிதன் மீது மற்றொர் மனிதனால் செலுத்தப்படும் அதிகாரங்களின் எந்த வடிவமும் மானுடப் பண்பு அல்ல. - சமூகநீதிக் கட்சி",
+    "location": "coimbatore",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1042252652266942465/98l2mzrK_400x400.jpg",
+    "category": "General"
+  },
+  {
+    "handle_name": "https://twitter.com/thirumarant",
+    "display_name": "திரு",
+    "bio": "நாங்களாம் அந்த காலத்துல...",
+    "location": "யாதும் ஊரே...யாவரும் கேளிர்",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1001353420232581121/70BGUbm1_400x400.jpg",
+    "category": "General"
+  },
+  {
+    "handle_name": "https://twitter.com/tparavai",
+    "display_name": "தமிழ்ப்பறவை",
+    "bio": "-",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/961982755692273669/_hY7iEw2_400x400.jpg",
+    "category": "General"
+  },
+  {
+    "handle_name": "https://twitter.com/vikatan",
+    "display_name": "விகடன்",
+    "bio": "இதயம் இணைக்கும் இணையம்!",
+    "location": "Tamilnadu, India",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1027412033065562112/E1m31XEC_400x400.jpg",
+    "category": "News"
+  },
+  {
+    "handle_name": "https://twitter.com/iParisal",
+    "display_name": "Parisal Krishna",
+    "bio": "Media | Writing | Music | Cinema | Friends | Love Everyone. No silly ரசிகச்சண்டை with me Pls!",
+    "location": "Chennai",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1031563950666571777/mYVfk2MG_400x400.jpg",
+    "category": "News"
+  },
+  {
+    "handle_name": "https://twitter.com/iamkarki",
+    "display_name": "கார்க்கிபவா",
+    "bio": "35 | Chennai | Media | Magazine Editor @ Vikatan | Opinions are personal",
+    "location": "Chennai",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1026138482681339905/tj_D7AVR_400x400.jpg",
+    "category": "News"
+  },
+  {
+    "handle_name": "https://twitter.com/kanapraba",
+    "display_name": "கானா பிரபா",
+    "bio": "பிச்சுப்புடுவேன் பிச்சு",
+    "location": "கேள்வியைப் பாரு, போய்யா",
+    "profile_pic": "https://pbs.twimg.com/profile_images/888540216109039616/gF64CFzq_400x400.jpg",
+    "category": "Music"
+  }
+]
