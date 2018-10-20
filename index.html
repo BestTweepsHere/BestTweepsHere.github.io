@@ -157,17 +157,25 @@ CSS code : return to top button
     /* On small screens, set height to 'auto' for the grid */
     @media screen and (max-width: 767px) {
       .row.content {height: auto;} 
+
+	  .header {
+		visibility: hidden;
+		display: none;
+		
+		}
+
+		.header-mobile{
+			visibility: visible !important;
+			display: block !important;
+		}
     }
-	@media screen and (max-width: 500px) {
-	.header a {
-		float: none;
-		display: block;
-		text-align: left;
-	}
-  
+	
+	.header-mobile{
+		visibility: hidden;
+		display: none;
 	}
 
-	.header {
+	.header,.header-mobile {
 		background-color: #f1f1f1;
 		position: relative;
 		width: 100%;
@@ -367,6 +375,15 @@ CSS code : return to top button
 			</div>
 
 			<div class="category-collection-list-wrapper w-dyn-list">
+
+					<div class="header-mobile">
+							<div class="Description-header">
+								<p class="header-text">lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content (also called greeking). Replacing the actual content with placeholder text allows designers to design the form of the content before the content itself has been produced.</p>
+							
+							</div>
+						</div>	
+
+
 				<div class="category-collection-list w-hidden-main w-hidden-medium w-hidden-small w-dyn-items">
 					<div class="filter-item w-dyn-item">
 						<div class="html-embed w-embed">
