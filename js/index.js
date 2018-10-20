@@ -2,7 +2,7 @@ $(document).ready(function() {
 
     //console.log(data);
        
-    var profile_details = "";
+    var profile_details = ""; 
    
 
     $.each(data, function(key, profile_value) {
@@ -10,9 +10,11 @@ $(document).ready(function() {
        var handle_name  = profile_value['handle_name'];
        var display_name = profile_value['display_name'];
        var bio          = profile_value['bio'];
-       var location     = profile_value['location'];
+       //var location     = profile_value['location'];
        var profile_pic  = profile_value['profile_pic'];
        var category     = profile_value['category'];
+       var website      = profile_value['website'];
+
 
        var category_details = category.split(",");
 
@@ -26,8 +28,7 @@ $(document).ready(function() {
 		profile_details	+=  '</div>';
 		profile_details	+=	'</a>';
 		profile_details	+=	'<a href="'+handle_name+'" class="name-link">'+display_name+'</a>';
-		profile_details	+=	'<div class="location">'+location+'</div>';
-        profile_details	+=	'<div class="bio-text-block w-richtext">';
+		profile_details	+=	'<div class="bio-text-block w-richtext">';
         profile_details	+=	'<p>'+bio+'</p>';
         profile_details	+=	'</div>';
         profile_details	+=	'<div class="occupations-div">';
@@ -51,6 +52,11 @@ $(document).ready(function() {
 
         profile_details	+=	'</div>';
         profile_details	+=	'<div class="buttons-div">';
+
+        if(website != "-"){
+            profile_details	+=	'<a href="'+website+'" target="_blank" class="button-bottom no-right-border w-button">Site</a>';
+        }
+
         profile_details	+=	'<a href="'+handle_name+'" target="_blank" class="button-bottom right-button w-button">Twitter</a>';
         profile_details	+=	'</div>';
 		profile_details	+=	'</div>';
