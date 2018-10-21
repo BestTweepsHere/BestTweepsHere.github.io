@@ -148,7 +148,7 @@ var data=[
     "display_name": "poem.exe",
     "bio": "micropoetry // license: CC BY 4.0 // mastodon: https://botsin.space/@poem_exe",
     "profile_pic": "./image/ZxBcBbqI_400x400.png",
-    "category": "Bot,Writer",
+    "category": "Twitter Bot,Writer",
     "website": "poemexe.com"
   },
   {
@@ -164,7 +164,7 @@ var data=[
     "display_name": "Thread Reader App",
     "bio": "I'm here to help you read threads more easily. Reply to any tweet of a thread and mention me with the 'unroll' keyword and I'll give you a link back 😀",
     "profile_pic": "./image/g_PfzHXA_400x400.jpg",
-    "category": "Bot",
+    "category": "Twitter Bot",
     "website": "ThreadReaderApp.com"
   },
   {
