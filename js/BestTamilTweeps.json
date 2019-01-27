@@ -40,14 +40,6 @@ var data=[
       "category": "Writing"
     },
     {
-      "handle_name": "https://twitter.com/frankklinkumar",
-      "display_name": "franklin kumar",
-      "bio": "ம்மா அப்பா டீச்சர் நண்பன் சினிமா காதலி கிரிக்கெட் கவிதை மனைவி மகள் நிலா இலக்கு போராட்டம் இசை கடல் திட்டம் துட்டு பயணம் வானம் மஞ்சள் காமம் சிலுவை மரணம் தேநீர்",
-      "location": "-",
-      "profile_pic": "./image/tamil/8tYZdYAO_400x400.jpg",
-      "category": "Writing"
-    },
-    {
       "handle_name": "https://twitter.com/viduthalainews",
       "display_name": "VIDUTHALAI - விடுதலை நாளிதழ்",
       "bio": "The daily newspaper உலகின் ஒரே பகுத்தறிவு நாளேடு - திராவிடர் கழகம் - பெரியார் - வீரமணி - திராவிடர் இயக்கம் - பகுத்தறிவு - Periyar-veeramani-dravidarkazhagam",
@@ -94,14 +86,6 @@ var data=[
       "location": "-",
       "profile_pic": "./image/tamil/m_ZdGBW4_400x400.jpg",
       "category": "General"
-    },
-    {
-      "handle_name": "https://twitter.com/shankaruppusamy",
-      "display_name": "Shan Karuppusamy",
-      "bio": "Writer & Learning Technology Evangelist working with Origin Learning Solutions as Senior Director - Technology.",
-      "location": "Chennai",
-      "profile_pic": "./image/tamil/877c7f3467e0facadb7c1ec68cec86ae_400x400.jpeg",
-      "category": "Tech, Blogging, Writing"
     },
     {
       "handle_name": "https://twitter.com/BalaramanL",
@@ -160,14 +144,6 @@ var data=[
       "category": "General"
     },
     {
-      "handle_name": "https://twitter.com/JLC1956",
-      "display_name": "Jean-Luc Chevillard",
-      "bio": "French researcher (at #CNRS), I explore the history of #Tamil grammatical (more precisely #śāstric) traditions as part of the global history of exact sciences.",
-      "location": "Paris (France)",
-      "profile_pic": "./image/tamil/JLC__2009__400x400.JPG",
-      "category": "Tamil"
-    },
-    {
       "handle_name": "https://twitter.com/tshrinivasan",
       "display_name": "த.சீனிவாசன்",
       "bio": "A Linux Lover. Editor of free software magazine in Tamil http://kaniyam.com  Free Tamil Ebook Publisher at http://FreeTamilEbooks.com",
@@ -191,15 +167,7 @@ var data=[
       "profile_pic": "./image/tamil/hUoIHXaI_400x400.jpg",
       "category": "Social"
     },
-    {
-      "handle_name": "https://twitter.com/karupalaniappan",
-      "display_name": "கரு பழனியப்பன்",
-      "bio": "Karu Palaniappan",
-      "location": "chennai",
-      "profile_pic": "./image/tamil/zSwX1rJK_400x400.jpeg",
-      "category": "Social, Cinema"
-    },
-    {
+   {
       "handle_name": "https://twitter.com/The_Vanitha",
       "display_name": "VANITHA S",
       "bio": "love drawing and painting.  Artist Cricket Lover",
@@ -256,28 +224,12 @@ var data=[
       "category": "Blogger, Tamil"
     },
     {
-      "handle_name": "https://twitter.com/sureshsambandam",
-      "display_name": "Suresh Sambandam",
-      "bio": "#Work #FutureOfWork #WorkTrends #DigitalTransformation #BPM #Workflow #Collaboration #Cloud #SaaS #Startups | CEO of @KiSSFLOW & Founder of @OrangeScape",
-      "location": "Chennai, India",
-      "profile_pic": "./image/tamil/Z_n1fMQq_400x400.jpg",
-      "category": "Tech, Social"
-    },
-    {
       "handle_name": "https://twitter.com/sathishmemes",
       "display_name": "சதீஷ் மீம்ஸ்",
       "bio": "#MemeCreator மீம் வழியே தமிழும் , அவ்வப்போது நகைச்சுவையும்.., No actor/political Trolls..☺☺ Look in to Media for memes..😊😊",
       "location": "Chennai",
       "profile_pic": "./image/tamil/KJ9WKbbT_400x400.jpg",
       "category": "Tech"
-    },
-    {
-      "handle_name": "https://twitter.com/ckknaturals",
-      "display_name": "CK Kumaravel",
-      "bio": "Entrepreneurs Aim to make naturals the no1 salon chain of world by 2025. Part of Kamalhassan's MNM as executive committee member . @maiamofficial",
-      "location": "Chennai",
-      "profile_pic": "./image/tamil/QAEUPdc2_400x400.jpg",
-      "category": "Social"
     },
     {
       "handle_name": "https://twitter.com/FreeTamilEbooks",
@@ -398,14 +350,6 @@ var data=[
       "location": "Chennai",
       "profile_pic": "./image/tamil/X3qTe_Dr_400x400.jpg",
       "category": "News"
-    },
-    {
-      "handle_name": "https://twitter.com/kanapraba",
-      "display_name": "கானா பிரபா",
-      "bio": "பிச்சுப்புடுவேன் பிச்சு",
-      "location": "கேள்வியைப் பாரு, போய்யா",
-      "profile_pic": "./image/tamil/gF64CFzq_400x400.jpg",
-      "category": "Music"
     }
   ]
   
