@@ -1,0 +1,133 @@
+
+*, *:before, *:after {
+	box-sizing: border-box;
+}
+
+/*body {
+	font-family: "Raleway", sans-serif;
+	background-color: #DA4177;
+	color: #fff;
+	font-size: 30px;
+	line-height: 50px;
+}*/
+
+.wrapper {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+h1 { font-size: 80px; }
+
+.menu { 
+	display: block;
+	text-align: right;
+	padding-right: 2em;
+	font-size: 20px;
+	line-height: 25px;
+}
+
+.menu.menu_nav {
+    padding: 0;
+list-style: none;
+}
+
+.menu li,p {display: inline-block; }
+.menu p {text-decoration: none; color: #fff;}
+
+.menu_nav>li{position: relative !important;}
+
+.language_select {
+	padding: 7px 15px 0px;
+	border: 1px solid #fff;
+    margin-right: 10px;
+    background-color: blanchedalmond;
+}
+.language_select>p:before {
+    content: '';
+    position: absolute;
+}
+.language_select:hover{
+    background: blanchedalmond;
+    border: none;
+}
+
+.language_select:hover>p { color: black; }
+.language_select:hover>ul {
+    opacity: 1;
+    visibility: visible;
+    margin: 0;
+    padding: 10px;
+    background: blanchedalmond;
+    color: black;
+}
+
+.language_select:active{
+    background: blanchedalmond;
+    border: none;
+}
+
+.language_select:active >p { color: black; }
+.language_select:active>ul {
+    opacity: 1;
+    visibility: visible;
+    margin: 0;
+    padding: 10px;
+    background: blanchedalmond;
+    color: black;
+}
+
+
+.language_select:focus{
+    background: blanchedalmond;
+    border: none;
+}
+
+
+.language_select:focus>p { color: black; }
+.language_select:focus>ul {
+    opacity: 1;
+    visibility: visible;
+    margin: 0;
+    padding: 10px;
+    background: blanchedalmond;
+    color: black;
+}
+
+.language_select>p { color: black; }
+/* .language_select>ul {
+    opacity: 1;
+    visibility: visible;
+    margin: 0;
+    padding: 10px;
+    background: white;
+    color: black;
+} */
+.language_select_children { 
+	min-width: 100%;
+  position: absolute;
+  top: 100%; left: 0;
+  z-index: 1;   
+  opacity: 0;
+  visibility: hidden;   
+  transition: opacity .2s;
+}
+.language_select_children > li {
+    width: 100%;
+    text-align: center;
+    padding: 5px;
+}
+.language_select_children>li:hover{
+    cursor: pointer;
+    color: #DA4177;
+}
+.language_select_children>li:active{
+    cursor: pointer;
+    color: #DA4177;
+}
+.language_select_children>li:focus{
+    cursor: pointer; 
+    color: #DA4177;
+}
+.social {
+	padding: 10px;
+}
