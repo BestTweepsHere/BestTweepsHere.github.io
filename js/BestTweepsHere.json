@@ -13,7 +13,7 @@ var data=[
     "bio": "J. Krishnamurti quotations selected from archive transcripts at Krishnamurti Foundation Trust",
     "profile_pic": "./image/-j--krishnamurti---the-transformation-of-man--f120164_400x400.jpg",
     "category": "Self Improvement",
-    "website": "jkrishnamurti.org"
+    "website": "http://www.jkrishnamurti.org"
   },
   {
     "handle_name": "https://twitter.com/unfinishthought",
@@ -21,7 +21,7 @@ var data=[
     "bio": "I think about thinking",
     "profile_pic": "./image/3CGXfZLj_400x400.jpg",
     "category": "Self Improvement",
-    "website": "thoughtunfinished.com"
+    "website": "https://thoughtunfinished.com"
   },
   {
     "handle_name": "https://twitter.com/dvIpr",
@@ -29,7 +29,7 @@ var data=[
     "bio": "git init --bare",
     "profile_pic": "./image/goBBdAW1_400x400.jpg",
     "category": "Code",
-    "website": "dvIpr.com"
+    "website": "http://dvIpr.com"
   },
   {
     "handle_name": "https://twitter.com/PythonWeekly",
@@ -37,7 +37,7 @@ var data=[
     "bio": "Python Weekly is a free weekly newsletter, which features curated news, articles, new releases, tools and libraries, events, jobs etc related to Python",
     "profile_pic": "./image/python_400x400.jpg",
     "category": "Code",
-    "website": "pythonweekly.com"
+    "website": "https://www.pythonweekly.com"
   },
   {
     "handle_name": "https://twitter.com/mastersofscale",
@@ -45,7 +45,7 @@ var data=[
     "bio": "In this new podcast from WaitWhat, Silicon Valley entrepreneur & investor @reidhoffman shows how famous founders take their companies from zero to a gazillion.",
     "profile_pic": "./image/ec53l0cw_400x400.jpg",
     "category": "Startup",
-    "website": "mastersofscale.com"
+    "website": "https://mastersofscale.com"
   },
   {
     "handle_name": "https://twitter.com/LifeMathMoney",
@@ -61,7 +61,7 @@ var data=[
     "bio": "I once indented a script with tabs instead of spaces. #GangsterLife",
     "profile_pic": "./image/Z6IHL30Y_400x400.png",
     "category": "Code",
-    "website": "ma.ttias.be"
+    "website": "https://ma.ttias.be"
   },
   {
     "handle_name": "https://twitter.com/RayDalio",
@@ -69,7 +69,7 @@ var data=[
     "bio": "Official account of Ray Dalio, founder of Bridgewater Associates, author of #1 New York Times bestseller 'Principles,' professional mistake maker",
     "profile_pic": "./image/lhJoh_d4_400x400.jpg",
     "category": "Writer",
-    "website": "principles.com/principles-for…"
+    "website": "https://www.principles.com/principles-for-success/#play"
   },
   {
     "handle_name": "https://twitter.com/HistoryToLearn",
@@ -85,7 +85,7 @@ var data=[
     "bio": "Co-Founder of Coursera; Stanford CS adjunct faculty. Former head of Baidu AI Group/Google Brain. #ai #machinelearning, #deeplearning #MOOCs",
     "profile_pic": "./image/oyG30NEH_400x400.jpg",
     "category": "Tech",
-    "website": "andrewng.org"
+    "website": "https://www.andrewng.org"
   },
   {
     "handle_name": "https://twitter.com/fs0c131y",
@@ -93,7 +93,7 @@ var data=[
     "bio": "French security researcher. Worst nightmare of Oneplus, Wiko, UIDAI, Kimbho, Donald Daters and others. Not completely schizophrenic. Not related to USANetwork.",
     "profile_pic": "./image/tQymlTdJ_400x400.jpg",
     "category": "Tech",
-    "website": "-"
+    "website": "https://fs0c131y.com"
   },
   {
     "handle_name": "https://twitter.com/theQSLmind",
@@ -101,7 +101,7 @@ var data=[
     "bio": "Thinker. Essayist. Youtuber. Contrarian. Psychology, Philosophy & #Bitcoin Enthusiast | Proprietor of 'The Quintessential Mind': http://thequintessentialmind.com ",
     "profile_pic": "./image/46NaMbUE_400x400.jpg",
     "category": "Self Improvement",
-    "website": "30challenges30days.com"
+    "website": "https://30challenges30days.com"
   },
   {
     "handle_name": "https://twitter.com/paraschopra",
@@ -109,7 +109,7 @@ var data=[
     "bio": "Founder and Chairman of @Wingify | Writes on http://InvertedPassion.com  | Loves understanding things.",
     "profile_pic": "./image/5dwbB9lO_400x400.jpg",
     "category": "Founder, Philosophy",
-    "website": "invertedpassion.com"
+    "website": "https://invertedpassion.com"
   },
   {
     "handle_name": "https://twitter.com/fatehshernu",
@@ -117,7 +117,7 @@ var data=[
     "bio": "Businessman | Truth Seeker | Mystic | Husband | Reviving Masculinity and Practical Wisdom To Escape this Age Of Degeneracy | Skype Consultations & http://Bit.ly/MenOCC ",
     "profile_pic": "./image/kLq5Lg3I_400x400.jpg",
     "category": "Self Improvement",
-    "website": "fatehshernu.com"
+    "website": "https://fatehshernu.com"
   },
   {
     "handle_name": "https://twitter.com/ryanstephens",
@@ -125,8 +125,11 @@ var data=[
     "bio": "Husband | Father | Voracious Reader | Strategist | Optimistic Contrarian | In Pursuit of Truth | 1% Better Every Day | Always Learning | Views My Own |",
     "profile_pic": "./image/JsWKvYM4_400x400.jpg",
     "category": "Self Improvement",
-    "website": "ryanstephensmarketing.com/newsletter"
+    "website": "https://www.dialedinmen.com"
   },
+  
+  
+  
   {
     "handle_name": "https://twitter.com/planetepics",
     "display_name": "Life on Earth",
