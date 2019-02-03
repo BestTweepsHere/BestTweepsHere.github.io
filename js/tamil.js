@@ -201,3 +201,16 @@ $(document).ready(function() {
 
 });
 
+
+$("#en").click(function(){ 
+
+   
+    window.location = "file:///Users/nandhini/Documents/BestTweepsHere.github.io-master/index.html";
+
+});
+
+$("#ta").click(function(){ 
+    
+    window.location = "file:///Users/nandhini/Documents/BestTweepsHere.github.io-master/tamil.html";
+
+});
