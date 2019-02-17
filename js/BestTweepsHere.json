@@ -127,9 +127,6 @@ var data=[
     "category": "Self Improvement",
     "website": "https://www.dialedinmen.com"
   },
-  
-  
-  
   {
     "handle_name": "https://twitter.com/planetepics",
     "display_name": "Life on Earth",
@@ -144,7 +141,7 @@ var data=[
     "bio": "India's Biggest Online Community Platform For Startups & Doers!",
     "profile_pic": "./image/oKvHcu9E_400x400.jpg",
     "category": "Startup",
-    "website": "nextbigwhat.com"
+    "website": "https://nextbigwhat.com"
   },
   {
     "handle_name": "https://twitter.com/poem_exe",
@@ -152,7 +149,7 @@ var data=[
     "bio": "micropoetry // license: CC BY 4.0 // mastodon: https://botsin.space/@poem_exe",
     "profile_pic": "./image/ZxBcBbqI_400x400.png",
     "category": "Twitter Bot,Writer",
-    "website": "poemexe.com"
+    "website": "https://poemexe.com"
   },
   {
     "handle_name": "https://twitter.com/NASAEarth",
@@ -160,7 +157,7 @@ var data=[
     "bio": "NASA uses the vantage point of space to increase our understanding of Earth and improve lives.",
     "profile_pic": "./image/qNGmQlRC_400x400.png",
     "category": "Science",
-    "website": "nasa.gov/earth"
+    "website": "https://www.nasa.gov/earth"
   },
   {
     "handle_name": "https://twitter.com/threadreaderapp",
@@ -168,7 +165,7 @@ var data=[
     "bio": "I'm here to help you read threads more easily. Reply to any tweet of a thread and mention me with the 'unroll' keyword and I'll give you a link back 😀",
     "profile_pic": "./image/g_PfzHXA_400x400.jpg",
     "category": "Twitter Bot",
-    "website": "ThreadReaderApp.com"
+    "website": "https://threadreaderapp.com"
   },
   {
     "handle_name": "https://twitter.com/DrRalphNap",
@@ -200,7 +197,7 @@ var data=[
     "bio": "Founder of @ProductHunt, @WeekendFund investor. Real likes, no gimmicks. ✌️😸",
     "profile_pic": "./image/5_STXrRg_400x400.jpg",
     "category": "Tech, Founder",
-    "website": "producthunt.com/@rrhoover"
+    "website": "https://www.producthunt.com/@rrhoover"
   },
   {
     "handle_name": "https://twitter.com/naval",
@@ -208,7 +205,7 @@ var data=[
     "bio": "Present.",
     "profile_pic": "./image/0StT9uYS_400x400.jpg",
     "category": "Philosophy",
-    "website": "medium.com/@noahmadden/na…"
+    "website": "https://medium.com/@noahmadden/navalism-quotes-perceptions-by-naval-ravikant-a5fd60ac5788"
   },
   {
     "handle_name": "https://twitter.com/ProductHunt",
@@ -216,7 +213,7 @@ var data=[
     "bio": "The place to discover your next favorite thing. @ProductHuntLIVE 💬 @AskProductHunt 🤔 Emoji spirit of @AngelList ✌️",
     "profile_pic": "./image/hpSvrkLC_400x400.jpg",
     "category": "Tech",
-    "website": "producthunt.com"
+    "website": "https://www.producthunt.com/newsletter"
   },
   {
     "handle_name": "https://twitter.com/newsycombinator",
@@ -224,7 +221,7 @@ var data=[
     "bio": "I'm a news.ycombinator bot, get the latest from Hacker News! Built by the lovely @riklomas from @superhi_ – sport shoes welcome.",
     "profile_pic": "./image/iUrYEOpJ_400x400.png",
     "category": "Tech",
-    "website": "https://twitter.com/newsycombinator"
+    "website": "https://news.ycombinator.com"
   },
   {
     "handle_name": "https://twitter.com/codeorg",
@@ -232,7 +229,7 @@ var data=[
     "bio": "http://Code.org  is a non-profit dedicated to exposing all students to computer science. Anybody can learn.",
     "profile_pic": "./image/HznhvglX_400x400.png",
     "category": "Code",
-    "website": "Code.org"
+    "website": "https://code.org"
   },
   {
     "handle_name": "https://twitter.com/CodeWisdom",
@@ -248,7 +245,7 @@ var data=[
     "bio": "Entrepreneur. Investor. Strategist.",
     "profile_pic": "./image/cDRrTbCI_400x400.jpg",
     "category": "Founder",
-    "website": "linkedin.com/in/reidhoffman"
+    "website": "https://www.linkedin.com/in/reidhoffman"
   },
   {
     "handle_name": "https://twitter.com/SpaceX",
@@ -256,7 +253,7 @@ var data=[
     "bio": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft.",
     "profile_pic": "./image/HECw8AzK_400x400.jpg",
     "category": "Science",
-    "website": "spacex.com"
+    "website": "https://www.spacex.com"
   },
   {
     "handle_name": "https://twitter.com/kunalb11",
@@ -264,7 +261,7 @@ var data=[
     "bio": "Nomad",
     "profile_pic": "./image/9SHCO5wz_400x400.jpg",
     "category": "Founder, Philosophy",
-    "website": "in.linkedin.com/in/kunalshah1"
+    "website": "https://in.linkedin.com/in/kunalshah1"
   },
   {
     "handle_name": "https://twitter.com/Techmeme",
@@ -272,7 +269,7 @@ var data=[
     "bio": "The essential tech news of the moment. Technology's news site of record. Not for dummies.",
     "profile_pic": "./image/84cCe9ze_400x400.jpg",
     "category": "Tech",
-    "website": "techmeme.com"
+    "website": "https://www.techmeme.com"
   },
   {
     "handle_name": "https://twitter.com/paulg",
@@ -280,7 +277,7 @@ var data=[
     "bio": "-",
     "profile_pic": "./image/pg-railsconf_400x400.jpg",
     "category": "Startup",
-    "website": "http://paulgraham.com/"
+    "website": "http://paulgraham.com"
   },
   {
     "handle_name": "https://twitter.com/YourStoryCo",
@@ -288,7 +285,7 @@ var data=[
     "bio": "India's leading media-tech company for stories of the entrepreneur in YOU!",
     "profile_pic": "./image/44e29395ae16f55ecd337871b5c94c7c_400x400.png",
     "category": "Startup",
-    "website": "yourstory.com"
+    "website": "https://yourstory.com"
   },
   {
     "handle_name": "https://twitter.com/elonmusk",
@@ -304,7 +301,7 @@ var data=[
     "bio": "Author of 'Conspiracy,' 'Ego is the Enemy' & 'The Obstacle Is The Way' http://amzn.to/24qKRWR . Media Columnist: New York Observer",
     "profile_pic": "./image/kfjncq15nujlw8cda0ws_400x400.png",
     "category": "Writer",
-    "website": "ryanholiday.net"
+    "website": "https://ryanholiday.net"
   },
   {
     "handle_name": "https://twitter.com/dog_feelings",
@@ -312,7 +309,7 @@ var data=[
     "bio": "from the creator of @dog_rates",
     "profile_pic": "./image/0r5bQLl_400x400.jpg",
     "category": "Animals",
-    "website": "weratedogs.com"
+    "website": "https://weratedogs.com"
   },
   {
     "handle_name": "https://twitter.com/IndiaHistorypic",
@@ -360,7 +357,7 @@ var data=[
     "bio": "Chief Product Officer, Tinder ($MTCH). Entrepreneur. Architect of the top grossing app in the world. Investor in @SpaceX @Lyft @AngelList",
     "profile_pic": "./image/1fae6073057ae5725bebbc0815c0123d_400x400.jpeg",
     "category": "Tech",
-    "website": "tinder.com"
+    "website": "https://tinder.com"
   },
   {
     "handle_name": "https://twitter.com/KapilGuptaMD",
@@ -368,7 +365,7 @@ var data=[
     "bio": "Mind. Truth. Legend . . . Advisor to CEO's, Pro Athletes, Celebrities, Companies. By Invitation.",
     "profile_pic": "./image/MphEtIBr_400x400.jpg",
     "category": "Self Improvement",
-    "website": "kapilguptamd.com"
+    "website": "https://www.kapilguptamd.com"
   },
   {
     "handle_name": "https://twitter.com/jasonlk",
@@ -376,7 +373,7 @@ var data=[
     "bio": "SaaS enthusiast @SaaStr + $90m @SaaStrFund. CoFounder/CEO EchoSign (@AdobeDocCloud). VP Web Biz @Adobe. Also built implantable nanobatteries that saved lives.🌞",
     "profile_pic": "./image/LJuNXYYM_400x400.png",
     "category": "Startup",
-    "website": "saastr.com"
+    "website": "https://www.saastr.com"
   },
   {
     "handle_name": "https://twitter.com/EdLatimore",
@@ -384,7 +381,7 @@ var data=[
     "bio": "(13-1-1) Heavyweight boxer | B.A. Physics | Author | Speaker | IG: https://bit.ly/2Nuu185  | http://amzn.to/2m8bfXl  | http://patreon.com/EdLatimore",
     "profile_pic": "./image/Elz1FVj4_400x400.jpg",
     "category": "Self Improvement",
-    "website": "edlatimore.com"
+    "website": "https://edlatmore.com"
   },
   {
     "handle_name": "https://twitter.com/nayyirahwaheed",
@@ -400,7 +397,7 @@ var data=[
     "bio": "Founder & Partner at Morgan Creek Digital. I write a daily email newsletter analyzing crypto news for institutional investors: http://offthechain.substack.com",
     "profile_pic": "./image/pPKWVpQu_400x400.jpg",
     "category": "Crypto",
-    "website": "medium.com/@apompliano"
+    "website": "https://offthechainmerchandise.com"
   },
   {
     "handle_name": "https://twitter.com/lpolovets",
@@ -408,7 +405,7 @@ var data=[
     "bio": "General Partner @SusaVentures (seed investor in @RobinhoodApp & @Flexport). Before: @Caltech → 2nd non-founding engineer @LinkedIn → @Google → @Factual.",
     "profile_pic": "./image/wuzgauMz_400x400.jpeg",
     "category": "Startup",
-    "website": "codingvc.com"
+    "website": "https://www.codingvc.com"
   },
   {
     "handle_name": "https://twitter.com/balajis",
@@ -416,7 +413,7 @@ var data=[
     "bio": "CTO of Coinbase and cofounder of Counsyl, Earn, Teleport, and Coin Center. I hear this Bitcoin thing might be kind of a big deal. Contact: http://earn.com/balajis",
     "profile_pic": "./image/0ISaDb4__400x400.png",
     "category": "Crypto, Founder",
-    "website": "balajis.com"
+    "website": "https://balajis.com"
   },
   {
     "handle_name": "https://twitter.com/LivvyKemp",
@@ -424,7 +421,7 @@ var data=[
     "bio": "Artist",
     "profile_pic": "./image/7QABlQiV_400x400.jpg",
     "category": "Artist",
-    "website": "https://www.oliviakemp.co.uk/"
+    "website": "https://www.oliviakemp.co.uk"
   },
   {
     "handle_name": "https://twitter.com/G_Singh_B",
@@ -432,6 +429,6 @@ var data=[
     "bio": "Self-taught Artist. Currently closed for commissions/requests. For information regarding originals, please email: info@gsinghb.com",
     "profile_pic": "./image/cLteqijX_400x400.jpg",
     "category": "Artist",
-    "website": "https://www.gurekbal.com/"
+    "website": "https://www.gurekbal.com"
   }
 ]
