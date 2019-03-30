@@ -85,6 +85,10 @@ a:not([href]):not([tabindex]) {
   padding: 0px;
 }
 
+.help_text{
+  color: #585b60;
+}
+
 .bg-gray {
   background: #f0f1df;
 }
