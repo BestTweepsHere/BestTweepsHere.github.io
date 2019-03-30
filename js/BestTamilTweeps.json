@@ -5,15 +5,15 @@ var data=[
       "bio": "Writer, Scriptwriter, Translator of Conversation with Maniratnam, Winner of Sujatha award",
       "location": "N 21°9' 0'' / E 72°39' 0''",
       "profile_pic": "./image/tamil/C6WiX0JL_400x400.jpeg",
-      "category": "Writer and Blogger"
+      "category": "Writer & Blogger"
     },
     {
       "handle_name": "https://twitter.com/being_hari",
       "display_name": "ஹரன்",
       "bio": "என் மகிழ்ச்சிக்காக யாரையும் உபயோகித்துக்கொண்டிருக்கவில்லை என்ற ஒரு காரணத்துக்காக வேண்டுமெனில் மகிழ்ந்து கொள்கிறேன்..",
       "location": "-",
-      "profile_pic": "./image/tamil/WSdrzd7e_400x400.jpeg",
-      "category": "Writer and Blogger, General"
+      "profile_pic": "./image/tamil/WSdrzd7e_400x400.jpg",
+      "category": "Writer & Blogger, General"
     },
     {
       "handle_name": "https://twitter.com/erode_kathir",
@@ -37,7 +37,7 @@ var data=[
       "bio": "கவிஞர், எழுத்தாளர்.",
       "location": "Tiruppur, India",
       "profile_pic": "./image/tamil/pgAz49Ah_400x400.jpeg",
-      "category": "Writer and Blogger"
+      "category": "Writer & Blogger"
     },
     {
       "handle_name": "https://twitter.com/viduthalainews",
@@ -45,7 +45,7 @@ var data=[
       "bio": "The daily newspaper உலகின் ஒரே பகுத்தறிவு நாளேடு - திராவிடர் கழகம் - பெரியார் - வீரமணி - திராவிடர் இயக்கம் - பகுத்தறிவு - Periyar-veeramani-dravidarkazhagam",
       "location": "Chennai",
       "profile_pic": "./image/tamil/IH3VADjR_200x200.jpg",
-      "category": "News and Journalism, Politics and Social"
+      "category": "News & Journalism, Politics & Social"
     },
     {
       "handle_name": "https://twitter.com/KATHAIKALPDF",
@@ -53,7 +53,7 @@ var data=[
       "bio": "உங்களை சற்று நேரம் சிறுவனாகவோ சிறுமியாகவோ மாற்றும் சக்தி கொண்டவன் நான் ( @iamosthi2 )",
       "location": "United Kingdom",
       "profile_pic": "./image/tamil/b_QRnMZP_400x400.jpg",
-      "category": "Writer and Blogger, Literature, Books"
+      "category": "Writer & Blogger, Literature, Books"
     },
     {
       "handle_name": "https://twitter.com/spinesurgeon",
@@ -61,7 +61,7 @@ var data=[
       "bio": "Doctor from India, Author of Medical Books, Blogger, Web Designer, Stereotaxy, Endoscopy, Key Hole Neuro Surgery, Neurosciences, Public Health and Traumacare",
       "location": "-",
       "profile_pic": "./image/tamil/blogbruno_400x400.jpg",
-      "category": "Health and Medical, Writer and Blogger"
+      "category": "Health & Medical, Writer & Blogger"
     },
     {
       "handle_name": "https://twitter.com/MandramOrg",
@@ -77,7 +77,7 @@ var data=[
       "bio": "Interests on FOSS, தமிழ், Programming; Most recently: Startups",
       "location": "-",
       "profile_pic": "./image/tamil/qpxQI9KY_200x200.jpg",
-      "category": "Tech, Writer and Blogger"
+      "category": "Tech, Writer & Blogger"
     },
     {
       "handle_name": "https://twitter.com/skpkaruna",
@@ -93,7 +93,7 @@ var data=[
       "bio": "Entrepreneur. Researcher. Tamil Blogger. Short-film maker/writer/actor in @Kalaipori. Editor in @cookploration. More info: http://about.me/BalaramanL",
       "location": "Bengaluru, India",
       "profile_pic": "./image/tamil/KCgv3LYo_200x200.jpg",
-      "category": "Tech, Writer and Blogger, Cooking"
+      "category": "Tech, Writer & Blogger, Cooking"
     },
     {
       "handle_name": "https://twitter.com/japan_raghu",
@@ -117,7 +117,7 @@ var data=[
       "bio": "Aazhi Publishers",
       "location": "Chennai",
       "profile_pic": "./image/tamil/eifEn67W_400x400.jpg",
-      "category": "Politics and Social"
+      "category": "Politics & Social"
     },
     {
       "handle_name": "https://twitter.com/real_kadavul",
@@ -133,7 +133,7 @@ var data=[
       "bio": "A Linux Lover. Editor of free software magazine in Tamil http://kaniyam.com  Free Tamil Ebook Publisher at http://FreeTamilEbooks.com",
       "location": "Chennai / Kanchipuram",
       "profile_pic": "./image/tamil/KL5-xUYD_400x400.jpg",
-      "category": "Tech, Writer and Blogger"
+      "category": "Tech, Writer & Blogger"
     },
     {
       "handle_name": "https://twitter.com/Periyaarism",
@@ -141,7 +141,7 @@ var data=[
       "bio": "மானமும் அறிவும் மனிதனுக்கு அழகு!",
       "location": "தமிழ்நாடு, திராவிடநாடு",
       "profile_pic": "./image/tamil/jEOiICfU_200x200.jpg",
-      "category": "Politics and Social"
+      "category": "Politics & Social"
     },
     {
       "handle_name": "https://twitter.com/bhaskarvasugi",
@@ -149,7 +149,7 @@ var data=[
       "bio": "-",
       "location": "-",
       "profile_pic": "./image/tamil/hUoIHXaI_200x200.jpg",
-      "category": "Politics and Social"
+      "category": "Politics & Social"
     },
     {
       "handle_name": "https://twitter.com/karupalaniappan",
@@ -157,13 +157,12 @@ var data=[
       "bio": "-",
       "location": "chennai",
       "profile_pic": "./image/tamil/zSwX1rJK_200x200.jpeg",
-      "category": "Politics and Social, Cinema and Music"
+      "category": "Politics & Social, Cinema & Music"
     },
     {
       "handle_name": "https://twitter.com/The_Vanitha",
       "display_name": "VANITHA S",
-      "bio": "love drawing and painting. ✌ ♥☺ Artist🎨
-      Cricket Lover 😍🏏",
+      "bio": "love drawing and painting. ✌ ♥☺ Artist🎨 Cricket Lover 😍🏏",
       "location": "-",
       "profile_pic": "./image/tamil/9J3HSzfT_200x200.jpg",
       "category": "Artist"
@@ -174,7 +173,7 @@ var data=[
       "bio": "படித்ததில் நம்புவது: யாதும் ஊரே, யாவரும் கேளிர் ; பிறப்பொக்கும் எல்லா உயிர்க்கும் ; மானமும் அறிவும் மனிதர்க்கு அழகு.",
       "location": "Mississauga, Ontario",
       "profile_pic": "./image/tamil/xwyXijQN_400x400.jpg",
-      "category": "Politics and Social"
+      "category": "Politics & Social"
     },
     {
       "handle_name": "https://twitter.com/PeriyarBooks",
@@ -190,7 +189,7 @@ var data=[
       "bio": "உங்களுக்குப் பிடித்தமாதிரி எழுதவேண்டும் என்றால் நீங்கள்தான் எழுதவேண்டும்.",
       "location": "பரதேசம்",
       "profile_pic": "./image/tamil/GSOWIasf_400x400.jpg",
-      "category": "Writer and Blogger"
+      "category": "Writer & Blogger"
     },
     {
       "handle_name": "https://twitter.com/kryes",
@@ -198,7 +197,7 @@ var data=[
       "bio": "http://dosa365.wordpress.com ",
       "location": "New York",
       "profile_pic": "./image/tamil/PxYZFp25_400x400.jpg",
-      "category": "Tamil, General, Politics and Social"
+      "category": "Tamil, General, Politics & Social"
     },
     {
       "handle_name": "https://twitter.com/nchokkan",
@@ -206,7 +205,7 @@ var data=[
       "bio": "Author, Freelance Writer, Translator, Opinions are mine and do not necessarily represent the postings, strategies or opinions of the company I work for",
       "location": "Bengaluru, India",
       "profile_pic": "./image/tamil/8MPzkOTF_400x400.jpg",
-      "category": "Writer and Blogger, Tech"
+      "category": "Writer & Blogger, Tech"
     },
     {
       "handle_name": "https://twitter.com/OldTamilPoetry",
@@ -214,7 +213,7 @@ var data=[
       "bio": "All of us could do with some ancient wisdom and poetry, don't you agree? Original translations of Classical Tamil Poetry. I am @chenthil_nathan",
       "location": "-",
       "profile_pic": "./image/tamil/blsopg3K_400x400.jpg",
-      "category": "Writer and Blogger, Tamil"
+      "category": "Writer & Blogger, Tamil"
     },
     {
       "handle_name": "https://twitter.com/FreeTamilEbooks",
@@ -230,7 +229,7 @@ var data=[
       "bio": "A Common man and damn i love rains than anything else, please note that i am not a meteorologist nor an expert in Weather.",
       "location": "Chennai, India",
       "profile_pic": "./image/tamil/HBHf6G90_400x400.jpg",
-      "category": "Politics and Social"
+      "category": "Politics & Social"
     },
     {
       "handle_name": "https://twitter.com/TamilYourstory",
@@ -238,7 +237,7 @@ var data=[
       "bio": "YourStory is India’s leading media platform for entrepreneurs & the entrepreneurial ecosystem.",
       "location": "Chennai, India",
       "profile_pic": "./image/tamil/T75So6V4_400x400.jpg",
-      "category": "Tech, News and Journalism"
+      "category": "Tech, News & Journalism"
     },
     {
       "handle_name": "https://twitter.com/VasagaSalai",
@@ -246,7 +245,7 @@ var data=[
       "bio": "புத்தகம் பற்றிய விவாதங்கள் மூலம் வாசிப்பு குறித்த புரிதலை மேம்படுத்த இந்த குழுமம். ",
       "location": "Chennai, India",
       "profile_pic": "./image/tamil/iQV_m0oH_400x400.jpg",
-      "category": "Books, Writer and Blogger"
+      "category": "Books, Writer & Blogger"
     },
     {
       "handle_name": "https://twitter.com/hasifkhan",
@@ -254,7 +253,7 @@ var data=[
       "bio": "-",
       "location": "-",
       "profile_pic": "./image/tamil/mg7mNksI_200x200.png",
-      "category": "General, News and Journalism, Artist"
+      "category": "General, News & Journalism, Artist"
     },
     {
       "handle_name": "https://twitter.com/ACLChennai",
@@ -262,7 +261,7 @@ var data=[
       "bio": "The official twitter page of India's prestigious Anna Centenary Library, known as ACL. The pride of Tamilnadu which was established on September 15, 2010.",
       "location": "Chennai, India",
       "profile_pic": "./image/tamil/xo0m-ANJ_200x200.jpg",
-      "category": "Books, Writer and Blogger"
+      "category": "Books, Writer & Blogger"
     },
     {
       "handle_name": "https://twitter.com/thedonashok",
@@ -270,7 +269,7 @@ var data=[
       "bio": "Dialog, Screenwriter in Tamil cinema. Thinker. Humane Human! bohemian!",
       "location": "Chennai",
       "profile_pic": "./image/tamil/AJSvZd-j_200x200.jpg",
-      "category": "Cinema and Music"
+      "category": "Cinema & Music"
     },
     {
       "handle_name": "https://twitter.com/karna_sakthi",
@@ -278,7 +277,7 @@ var data=[
       "bio": "ஒரு மனிதன் மீது மற்றொர் மனிதனால் செலுத்தப்படும் அதிகாரங்களின் எந்த வடிவமும் மானுடப் பண்பு அல்ல.",
       "location": "Coimbatore",
       "profile_pic": "./image/tamil/X4Gi2O5-_200x200.jpg",
-      "category": "Politics and Social"
+      "category": "Politics & Social"
     },
     {
       "handle_name": "https://twitter.com/thirumarant",
@@ -302,7 +301,7 @@ var data=[
       "bio": "இதயம் இணைக்கும் இணையம்!",
       "location": "Tamilnadu, India",
       "profile_pic": "./image/tamil/E1m31XEC_200x200.jpg",
-      "category": "News and Journalism"
+      "category": "News & Journalism"
     },
     {
       "handle_name": "https://twitter.com/iParisal",
@@ -310,7 +309,7 @@ var data=[
       "bio": "Media | Writing | Music | Cinema | Friends | Love Everyone. No silly ரசிகச்சண்டை with me Pls!",
       "location": "Chennai",
       "profile_pic": "./image/tamil/xxCYNy-G_400x400.jpg",
-      "category": "News and Journalism"
+      "category": "News & Journalism"
     },
     {
       "handle_name": "https://twitter.com/iamkarki",
@@ -318,7 +317,7 @@ var data=[
       "bio": "35 | Chennai | Media | Magazine Editor @ Vikatan | Opinions are personal",
       "location": "Chennai",
       "profile_pic": "./image/tamil/laPYXVir_200x200.jpg",
-      "category": "News and Journalism"
+      "category": "News & Journalism"
     },
     {
       "handle_name": "https://twitter.com/kanapraba",
@@ -326,16 +325,15 @@ var data=[
       "bio": "பிச்சுப்புடுவேன் பிச்சு",
       "location": "கேள்வியைப் பாரு, போய்யா",
       "profile_pic": "./image/tamil/gF64CFzq_200x200.jpg",
-      "category": "Cinema and Music"
+      "category": "Cinema & Music"
     },
     {
       "handle_name": "https://twitter.com/vinavu",
       "display_name": "வினவு",
-      "bio": "உழைக்கும் மக்களின் இணையக் குரல்! 
-      செய்திகள் - அலசல்கள் - விவாதங்கள்......",
+      "bio": "உழைக்கும் மக்களின் இணையக் குரல்!  செய்திகள் - அலசல்கள் - விவாதங்கள்......",
       "location": "-",
       "profile_pic": "./image/tamil/cPYPsS1w_200x200.jpg",
-      "category": "News and Journalism"
+      "category": "News & Journalism"
     },
     {
       "handle_name": "https://twitter.com/vibigraphy",
@@ -351,7 +349,7 @@ var data=[
       "bio": "Life-It goes on...",
       "location": "-",
       "profile_pic": "./image/tamil/MXpN4hiB_200x200.jpg",
-      "category": "Writer and Blogger"
+      "category": "Writer & Blogger"
     },
     {
       "handle_name": "https://twitter.com/narsimp",
@@ -359,7 +357,7 @@ var data=[
       "bio": "writer",
       "location": "Chennai",
       "profile_pic": "./image/tamil/z0u62zwK_200x200.jpg",
-      "category": "Writer and Blogger"
+      "category": "Writer & Blogger"
     },
     {
       "handle_name": "https://twitter.com/NaanSamantha",
@@ -383,7 +381,7 @@ var data=[
       "bio": "Promote Ambedkar – Periyar thoughts and to initiate debates on socio-economic-political and cultural impacts which affects common mass within Canada.",
       "location": "-",
       "profile_pic": "./image/tamil/5wCFeBC-_200x200.jpg",
-      "category": "Politics and Social"
+      "category": "Politics & Social"
     },
     {
       "handle_name": "https://twitter.com/Numinous_2",
@@ -399,7 +397,7 @@ var data=[
       "bio": "-",
       "location": "-",
       "profile_pic": "./image/tamil/C6CVpW-J_200x200.jpg",
-      "category": "Politics and Social"
+      "category": "Politics & Social"
     },
     {
       "handle_name": "https://twitter.com/AsiriyarKV",
@@ -407,7 +405,7 @@ var data=[
       "bio": "kveeramani.com",
       "location": "Chennai, India",
       "profile_pic": "./image/tamil/6Pg2caD7_200x200.jpg",
-      "category": "Politics and Social"
+      "category": "Politics & Social"
     },
     {
       "handle_name": "https://twitter.com/AsiriyarKV",
@@ -415,15 +413,12 @@ var data=[
       "bio": "kveeramani.com",
       "location": "Chennai, India",
       "profile_pic": "./image/tamil/6Pg2caD7_200x200.jpg",
-      "category": "Politics and Social"
+      "category": "Politics & Social"
     },
     {
       "handle_name": "https://twitter.com/panuval",
       "display_name": "Panuval BookStore",
-      "bio": "Curated Tamil Bookstore and Flim screening, Meeting point | (link: http://panuval.com) panuval.com |
-              Facebook Page: (link: http://fb.com/panuval) fb.com/panuval
-              WhatsApp: 9789-00-9666
-              Telegram Channel: (link: http://t.me/panuval) t.me/panuval",
+      "bio": "Curated Tamil Bookstore and Flim screening, Meeting point | (link: http://panuval.com) panuval.com | Facebook Page: (link: http://fb.com/panuval) fb.com/panuval WhatsApp: 9789-00-9666 Telegram Channel: (link: http://t.me/panuval) t.me/panuval",
       "location": "Chennai, India",
       "profile_pic": "./image/tamil/QF4J2xwW_200x200.jpg",
       "category": "Books"
@@ -450,7 +445,7 @@ var data=[
       "bio": "எல்லாம் கருத்துமல்ல.... எல்லாம் நக்கலுமல்ல...",
       "location": "Kumbakonam/Dubai",
       "profile_pic": "./image/tamil/1U_AmeJX_200x200.jpg",
-      "category": "Writer and Blogger, General, Fun"
+      "category": "Writer & Blogger, General, Fun"
     },
     {
       "handle_name": "https://twitter.com/ThePayon",
@@ -458,7 +453,7 @@ var data=[
       "bio": "நான் பப்ளிக் ஃபிகராக இருப்பதைவிட வெறும் ஃபிகராக இருக்கவே விரும்புகிறேன்.",
       "location": "-",
       "profile_pic": "./image/tamil/ag9Au5y9_200x200.jpg",
-      "category": "Writer and Blogger"
+      "category": "Writer & Blogger"
     },
    
     {
@@ -483,7 +478,7 @@ var data=[
       "bio": "Political activist INC.Writer,Author of three books",
       "location": "Karur,Tamil Nadu",
       "profile_pic": "./image/tamil/2h6bfUZI_400x400.jpg",
-      "category": "Politics and Social"
+      "category": "Politics & Social"
     },
     {
       "handle_name": "https://twitter.com/wolf_twits",
@@ -499,7 +494,7 @@ var data=[
       "bio": "-",
       "location": "-",
       "profile_pic": "./image/tamil/e3finkt0bnxmp67g34v2_400x400.jpeg",
-      "category": "Writer and Blogger"
+      "category": "Writer & Blogger"
     },
     {
       "handle_name": "https://twitter.com/TechTamizhaa",
