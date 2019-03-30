@@ -123,7 +123,7 @@ a:not([href]):not([tabindex]) {
   background-color: #3d60f4;
   position: relative;
   z-index: 1;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 .btn-common:hover {
@@ -133,6 +133,15 @@ a:not([href]):not([tabindex]) {
   transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
   -webkit-transition: all .2s ease-in-out;
+}
+
+
+.btn-white {
+  background-color: #ffffff;
+  position: relative;
+  z-index: 1;
+  color: #3d60f4;
+  /*text-transform: uppercase;*/
 }
 
 .btn-border {
@@ -325,7 +334,7 @@ hr {
 }
 
 .feature-thumb {
-  padding: 40px 0;
+  /*padding: 40px 0;*/
 }
 
 .feature-item {
@@ -519,7 +528,7 @@ hr {
   font-weight: 600;
   padding: 8px 10px;
   line-height: 40px;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   cursor: pointer;
   background: transparent;
   -webkit-transition: all 0.3s ease-in-out;
@@ -668,7 +677,7 @@ hr {
 
 #hero-area .contents .head-title {
   color: #585b60;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
   font-size: 30px;
   line-height: 48px;
   font-weight: 700;
