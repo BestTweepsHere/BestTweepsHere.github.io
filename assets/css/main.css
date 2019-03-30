@@ -238,7 +238,7 @@ a.back-to-top {
   text-decoration: none;
 }
 
-a.back-to-top i {
+a.back-to-top span {
   display: block;
   font-size: 22px;
   width: 40px;
