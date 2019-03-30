@@ -202,15 +202,8 @@ $(document).ready(function() {
 });
 
 
-$("#en").click(function(){ 
+$(".change_language").click(function(){ 
 
-   
-    window.location = "file:///Users/nandhini/Documents/BestTweepsHere.github.io-master/index.html";
-
-});
-
-$("#ta").click(function(){ 
-    
-    window.location = "file:///Users/nandhini/Documents/BestTweepsHere.github.io-master/tamil.html";
+    window.location = "english.html";
 
 });

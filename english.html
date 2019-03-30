@@ -37,7 +37,7 @@
 
 		<link rel="shortcut icon" href="image/BestTweepsHere_small.png" type="image/png" sizes="160x160">
 
-		<link href="css/index.css" rel="stylesheet">
+		<link href="css/english.css" rel="stylesheet">
 
 		<link href="https://global-uploads.webflow.com/5b9d51414158adc5804fc90e/css/latinxs-who-design.webflow.e28184f3d.css" rel="stylesheet" type="text/css"/>
 		<link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
@@ -163,53 +163,14 @@
 			background-color: #f1f1f1;
 			height: 100%;
 		}
-
-		/* On small screens, set height to 'auto' for the grid */
-		@media screen and (max-width: 767px) {
-		
-			.row.content {height: auto;}
-
-			.header {
-				visibility: hidden;
-				display: none;
-			}
-
-			.header-mobile{
-				visibility: visible !important;
-				display: block !important;
-			}
+		.change_language{
+			background: blanchedalmond;
+			height: 41px;
+			width: 61%;
+			font-size: 17px;
 		}
-
-		.header-mobile{
-			visibility: hidden;
-			display: none;
-		}
-
-		.header,.header-mobile {
-			background-color: #f1f1f1;
-			position: relative;
-			width: 100%;
-			border-top: 1px solid #eeeeee;
-			padding: 16px 8px 15px;
-			border-radius: 0px;
-			margin-bottom: 4px;
-			background: #ff4b1f;  /* fallback for old browsers */
-			background: -webkit-linear-gradient(to right, #ff9068, #ff4b1f);  /* Chrome 10-25, Safari 5.1-6 */
-			background: linear-gradient(to right, #a9a6a6, #403d3c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-			color: white;
-			font-size: 18px;
-			line-height: 30px;
-		}
-		.header-text{
-			font-family: Chivo, sans-serif;
-			font-size: 16px;
-
-		}
-		.learn_more{
-			height: 36px;
-			background: antiquewhite;
-			font-size: 20px;
-			padding: 2px;
+		.secondary-link{
+			font-weight: bold;
 		}
 	</style>
 </head>
@@ -220,19 +181,7 @@
 		<div class="left-nav-div">
 			
 			<div class="wrapper">
-				<nav class="menu">
-					<ul class="menu_nav">
-						<li class="language_select">
-							<p>Languages</p>
-							<ul class="language_select_children">
-								<li id="ta">Tamil</li>
-								<li id="en">English</li>
-							</ul>
-						</li>
-						<li class="social"><i class="fa fa-facebook" aria-hidden="true"></i></li>
-						<li class="social"><i class="fa fa-twitter" aria-hidden="true"></i></li>
-					</ul>
-				</nav>
+				<button class="change_language">Tamil Version</button>
 			</div>
 
 
@@ -398,16 +347,6 @@
 			</div>
 
 			<div class="category-collection-list-wrapper w-dyn-list">
-
-					<div class="header-mobile">
-							<div class="Description-header">
-								<p class="header-text">Best Tweeps Here is our baby step to make a better web. We believe a better web is where we can get unbiased, informative, insightful, harmless content from the common people someone like you and me.
-	<!--<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="Hello #BestTweepsHere !" data-url="https://BestTweepsHere.github.io" data-via="BestTweepsHere" data-show-screen-name="false" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
-	<a href="about.html" class="learn_more">Learn more</a></p>
-
-							</div>
-						</div>
-
 
 				<div class="category-collection-list w-hidden-main w-hidden-medium w-hidden-small w-dyn-items">
 					<div class="filter-item w-dyn-item">
@@ -579,14 +518,6 @@
 
 
 		<div class="content-div">
-				<div class="header">
-						<div class="Description-header">
-							<p class="header-text">Best Tweeps Here is our baby step to make a better web. We believe a better web is where we can get unbiased, informative, insightful, harmless content from the common people someone like you and me.
-								You can join with us to make better future web by nominating a Best Tweeps Here, please mention us (@BestTweepsHere) in a tweet to nominate your favorite twitter handle.
-							<!--<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="Hello #BestTweepsHere !" data-url="https://BestTweepsHere.github.io" data-via="BestTweepsHere" data-show-screen-name="false" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
-							<a href="about.html" class="learn_more">Learn more</a></p>
-						</div>
-					</div>
 			<div class="collection-list-wrapper w-dyn-list">
 				<div id="target-container" class="filter-list w-dyn-items">
 				</div>
@@ -601,7 +532,7 @@
 </body>
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.0/mixitup.min.js"></script>
-	<script src="js/index.js"></script>
+	<script src="js/english.js"></script>
 <script>
 
 	// ===== Scroll to Top ====
