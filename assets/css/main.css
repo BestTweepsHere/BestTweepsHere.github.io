@@ -87,6 +87,7 @@ a:not([href]):not([tabindex]) {
 
 .help_text{
   color: #585b60;
+  padding: 20px 0 0 0;
 }
 
 .bg-gray {
@@ -130,7 +131,7 @@ a:not([href]):not([tabindex]) {
   /*text-transform: uppercase;*/
 }
 
-.btn-common:hover {
+.btn-common:hover, .btn-white:hover {
   color: #fff;
   background-color: #222;
   box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
