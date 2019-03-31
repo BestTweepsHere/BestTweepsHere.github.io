@@ -1895,7 +1895,7 @@ textarea {
   position: relative;
 }
 
-.footer-area #subscribe-form .form-group .btn-common {
+.footer-area #subscribe-form .form-group .btn-common{
   position: absolute;
   top: 0;
   right: 0;
@@ -1905,6 +1905,10 @@ textarea {
   background: transparent;
   color: #3d60f4;
   border-left: 1px solid #ddd;
+}
+
+.btn-white{
+  padding: 7px 15px;
 }
 
 .copyright {
