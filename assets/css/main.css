@@ -1936,3 +1936,12 @@ textarea {
 .copyright p a:hover {
   color: #3d60f4;
 }
+
+
+
+
+@media only screen and (max-width: 600px) {
+  .mobile_view_center_align{
+      text-align: center;
+  }
+}
