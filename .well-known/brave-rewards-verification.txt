@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: besttweeps.com
+Token: b978fca78ff9664fa1f3ac4974e56bddfc4ba2e684c90af8f1f495a5e9cdabc0
