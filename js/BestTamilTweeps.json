@@ -146,14 +146,6 @@ var data=[
       "category": "Books, Writer & Blogger"
     },
     {
-      "handle_name": "https://twitter.com/kanapraba",
-      "display_name": "கானா பிரபா",
-      "bio": "பிச்சுப்புடுவேன் பிச்சு",
-      "location": "கேள்வியைப் பாரு, போய்யா",
-      "profile_pic": "./image/tamil/gF64CFzq_200x200.jpg",
-      "category": "Cinema & Music"
-    },
-    {
       "handle_name": "https://twitter.com/vinavu",
       "display_name": "வினவு",
       "bio": "உழைக்கும் மக்களின் இணையக் குரல்!  செய்திகள் - அலசல்கள் - விவாதங்கள்......",
@@ -192,14 +184,6 @@ var data=[
       "location": "-",
       "profile_pic": "./image/tamil/5wCFeBC-_200x200.jpg",
       "category": "Politics & Social"
-    },
-    {
-      "handle_name": "https://twitter.com/Numinous_2",
-      "display_name": ".",
-      "bio": "❤️ Vijay, Ilaiyaraja.",
-      "location": "-",
-      "profile_pic": "./image/tamil/tP5BrepR_200x200.jpg",
-      "category": "General"
     },
     {
       "handle_name": "https://twitter.com/KanimozhiMV",
@@ -242,14 +226,6 @@ var data=[
       "category": "Fun"
     },
     {
-      "handle_name": "https://twitter.com/saran_io",
-      "display_name": "Saran",
-      "bio": "Programmer | Books | Travel | Politics | Nature |",
-      "location": "Planet Earth",
-      "profile_pic": "./image/tamil/FUuHmOK4_200x200.jpg",
-      "category": "Tech"
-    },
-    {
       "handle_name": "https://twitter.com/ThePayon",
       "display_name": "பேயோன் • پایون",
       "bio": "நான் பப்ளிக் ஃபிகராக இருப்பதைவிட வெறும் ஃபிகராக இருக்கவே விரும்புகிறேன்.",
@@ -258,14 +234,6 @@ var data=[
       "category": "Writer & Blogger"
     },
    
-    {
-      "handle_name": "https://twitter.com/kannammacooks",
-      "display_name": ".",
-      "bio": "Home Cooking | Tamilnadu | From Scratch | Food Blogger Download our app: Android Users (link: https://goo.gl/ELZ8Ba) goo.gl/ELZ8Ba iOS users (link: https://goo.gl/G3pk4T) goo.gl/G3pk4T",
-      "location": "Bangalore",
-      "profile_pic": "./image/tamil/xMhSrlZO_400x400.jpg",
-      "category": "Cooking"
-    }, 
     {
       "handle_name": "https://twitter.com/SolitaryReaper_",
       "display_name": "வன யட்சி",
