@@ -8,6 +8,22 @@ var data=[
     "category": "Poems"
   },
   {
+    "handle_name": "https://twitter.com/nesamithran",
+    "display_name": "nesamithran",
+    "bio": "-",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1468994511070064641/LdXfAqwf_400x400.jpg",
+    "category": "Poems"
+  },
+  {
+    "handle_name": "https://twitter.com/DrTRM",
+    "display_name": "The Kids Dr. MD , PGPN",
+    "bio": "DM me for kids related queries .",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1494287053797748736/ToivkPBE_400x400.jpg",
+    "category": "Medical"
+  },
+  {
     "handle_name": "https://twitter.com/WriterAravindh",
     "display_name": "aravindhskumar",
     "bio": "Writer, Scriptwriter, Translator of Conversation with Maniratnam, Winner of Sujatha award",
