@@ -1,11 +1,11 @@
 var data=[
   {
-    "handle_name": "https://twitter.com/being_hari",
-    "display_name": "ஹரன்",
-    "bio": "என் மகிழ்ச்சிக்காக யாரையும் உபயோகித்துக்கொண்டிருக்கவில்லை என்ற ஒரு காரணத்துக்காக வேண்டுமெனில் மகிழ்ந்து கொள்கிறேன்..",
+    "handle_name": "https://twitter.com/rnydeen",
+    "display_name": "Selenophile :-)",
+    "bio": "-",
     "location": "-",
-    "profile_pic": "https://pbs.twimg.com/profile_images/1042665636235603968/ysU6Kwe1_400x400.jpg",
-    "category": "Poems, General"
+    "profile_pic": "https://pbs.twimg.com/profile_images/802510566283677696/We0PT57G_400x400.jpg",
+    "category": "Poems"
   },
   {
     "handle_name": "https://twitter.com/WriterAravindh",
@@ -23,6 +23,7 @@ var data=[
     "profile_pic": "https://pbs.twimg.com/profile_images/1040262581435260929/XXuSFEOC_400x400.jpg",
     "category": "General"
   },
+
   {
     "handle_name": "https://twitter.com/chenthil_nathan",
     "display_name": "செந்தில் / Chenthil",
@@ -63,14 +64,7 @@ var data=[
     "profile_pic": "https://pbs.twimg.com/profile_images/984752924487172101/b_QRnMZP_400x400.jpg",
     "category": "Writing, Reading, Book"
   },
-  {
-    "handle_name": "https://twitter.com/spinesurgeon",
-    "display_name": "Bruno Mascarenhas",
-    "bio": "Doctor from India, Author of Medical Books, Blogger, Web Designer, Stereotaxy, Endoscopy, Key Hole Neuro Surgery, Neurosciences, Public Health and Traumacare",
-    "location": "-",
-    "profile_pic": "https://pbs.twimg.com/profile_images/55307059/blogbruno_400x400.jpg",
-    "category": "Medicine, Writing, Blogging"
-  },
+  
   {
     "handle_name": "https://twitter.com/MandramOrg",
     "display_name": "மன்றம்",
@@ -119,14 +113,7 @@ var data=[
     "profile_pic": "https://pbs.twimg.com/profile_images/1036880806365417472/8pN1MqT__400x400.jpg",
     "category": "Photography"
   },
-  {
-    "handle_name": "https://twitter.com/vantherimadu",
-    "display_name": "வந்தேறி மாடு",
-    "bio": "நாட்டு சாதி மாடுகளை அடியோடு அழிக்க வந்த வந்தேறி மாடு",
-    "location": "New Jersey",
-    "profile_pic": "https://pbs.twimg.com/profile_images/853231931693158400/YKa3aIMe_400x400.jpg",
-    "category": "Politics"
-  },
+  
   {
     "handle_name": "https://twitter.com/marxisttamil",
     "display_name": "Marxist",
@@ -184,14 +171,6 @@ var data=[
     "category": "Social"
   },
   {
-    "handle_name": "https://twitter.com/bhaskarvasugi",
-    "display_name": "VASUGI BHASKAR",
-    "bio": "-",
-    "location": "-",
-    "profile_pic": "https://pbs.twimg.com/profile_images/1040181739488833537/hUoIHXaI_400x400.jpg",
-    "category": "Social"
-  },
-  {
     "handle_name": "https://twitter.com/karupalaniappan",
     "display_name": "கரு பழனியப்பன்",
     "bio": "Karu Palaniappan",
@@ -200,11 +179,19 @@ var data=[
     "category": "Social, Cinema"
   },
   {
-    "handle_name": "https://twitter.com/The_Vanitha",
-    "display_name": "VANITHA S",
-    "bio": "love drawing and painting.  Artist Cricket Lover",
-    "location": "Tiruchirapalli, India",
-    "profile_pic": "https://pbs.twimg.com/profile_images/908701139096322051/9J3HSzfT_400x400.jpg",
+    "handle_name": "https://twitter.com/Urudhimozhi",
+    "display_name": "Urudhi",
+    "bio": "She / அவர். A tiny personality carved out of Vadivelu dialogues and @SarahCAndersen comics. Loves art.",
+    "location": "-",
+    "profile_pic": "-",
+    "category": "Artist"
+  },
+  {
+    "handle_name": "https://twitter.com/vidhaanam",
+    "display_name": "கித்தான்",
+    "bio": "-",
+    "location": "-",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1492337177941798918/uO2lY3fF_400x400.jpg",
     "category": "Artist"
   },
   {
@@ -270,14 +257,6 @@ var data=[
     "location": "Chennai",
     "profile_pic": "https://pbs.twimg.com/profile_images/834804930837872641/KJ9WKbbT_400x400.jpg",
     "category": "Tech"
-  },
-  {
-    "handle_name": "https://twitter.com/ckknaturals",
-    "display_name": "CK Kumaravel",
-    "bio": "Entrepreneurs Aim to make naturals the no1 salon chain of world by 2025. Part of Kamalhassan's MNM as executive committee member . @maiamofficial",
-    "location": "Chennai",
-    "profile_pic": "https://pbs.twimg.com/profile_images/986478688920154113/ffWyd5z7_400x400.jpg",
-    "category": "Social"
   },
   {
     "handle_name": "https://twitter.com/FreeTamilEbooks",
@@ -373,7 +352,7 @@ var data=[
     "bio": "-",
     "location": "-",
     "profile_pic": "https://pbs.twimg.com/profile_images/961982755692273669/_hY7iEw2_400x400.jpg",
-    "category": "General"
+    "category": "General, Artist"
   },
   {
     "handle_name": "https://twitter.com/vikatan",
@@ -389,15 +368,7 @@ var data=[
     "bio": "Media | Writing | Music | Cinema | Friends | Love Everyone. No silly ரசிகச்சண்டை with me Pls!",
     "location": "Chennai",
     "profile_pic": "https://pbs.twimg.com/profile_images/1031563950666571777/mYVfk2MG_400x400.jpg",
-    "category": "News"
-  },
-  {
-    "handle_name": "https://twitter.com/iamkarki",
-    "display_name": "கார்க்கிபவா",
-    "bio": "35 | Chennai | Media | Magazine Editor @ Vikatan | Opinions are personal",
-    "location": "Chennai",
-    "profile_pic": "https://pbs.twimg.com/profile_images/1026138482681339905/tj_D7AVR_400x400.jpg",
-    "category": "News"
+    "category": "News, General"
   },
   {
     "handle_name": "https://twitter.com/kanapraba",
