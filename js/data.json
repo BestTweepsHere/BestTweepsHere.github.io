@@ -73,6 +73,14 @@ var data=[
     "category": "News, Rationalist, Society"
   },
   {
+    "handle_name": "https://twitter.com/donupdates_in",
+    "display_name": "DON Updates",
+    "bio": "Credible and Fastest News Portal | Single Window Destination for Real Time Updates, Breaking News and Government Notifications",
+    "location": "India",
+    "profile_pic": "https://pbs.twimg.com/profile_images/1401972966330540056/5eVSCGIu_400x400.jpg",
+    "category": "News"
+  },
+  {
     "handle_name": "https://twitter.com/KATHAIKALPDF",
     "display_name": "முகமூடி வீரன் மாயாவி",
     "bio": "உங்களை சற்று நேரம் சிறுவனாகவோ சிறுமியாகவோ மாற்றும் சக்தி கொண்டவன் நான் ( @iamosthi2 )",
@@ -103,7 +111,7 @@ var data=[
     "bio": "பிறப்பொக்கும் எல்லா உயிர்க்கும்",
     "location": "-",
     "profile_pic": "https://pbs.twimg.com/profile_images/1042610167819329537/m_ZdGBW4_400x400.jpg",
-    "category": "General"
+    "category": "General, Politics"
   },
   {
     "handle_name": "https://twitter.com/shankaruppusamy",
