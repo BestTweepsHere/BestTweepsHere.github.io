@@ -401,5 +401,13 @@ var data=[
     "location": "",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
     "category": "Medical"
+  },
+  {
+    "handle_name": "https://twitter.com/aram_Gj",
+    "display_name": "GJ,
+    "bio": "-",
+    "location": "",
+    "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
+    "category": "General"
   }
 ]
