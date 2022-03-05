@@ -2,16 +2,16 @@ var data=[
   {
     "handle_name": "https://twitter.com/rnydeen",
     "display_name": "Selenophile :-)",
-    "bio": "-",
-    "location": "-",
+    "bio": "",
+    "location": "",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
     "category": "Writer & Blogger"
   },
   {
     "handle_name": "https://twitter.com/nesamithran",
     "display_name": "nesamithran",
-    "bio": "-",
-    "location": "-",
+    "bio": "",
+    "location": "",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
     "category": "Writer & Blogger"
   },
@@ -19,7 +19,7 @@ var data=[
     "handle_name": "https://twitter.com/DrTRM",
     "display_name": "The Kids Dr. MD , PGPN",
     "bio": "DM me for kids related queries .",
-    "location": "-",
+    "location": "",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
     "category": "Health & Medical"
   },
@@ -27,7 +27,7 @@ var data=[
     "handle_name": "https://twitter.com/erode_kathir",
     "display_name": "ஈரோடு கதிர்",
     "bio": "நகரத்து மண்ணில் பாய்ந்த கிராமத்து வேர்",
-    "location": "-",
+    "location": "",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
     "category": "General"
   },
@@ -264,7 +264,7 @@ var data=[
     "bio": "-",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "General, News, Art"
+    "category": "Artist"
   },
   {
     "handle_name": "https://twitter.com/ACLChennai",
