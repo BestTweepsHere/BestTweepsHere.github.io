@@ -5,7 +5,7 @@ var data=[
     "bio": "-",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Poems"
+    "category": "Writer & Blogger"
   },
   {
     "handle_name": "https://twitter.com/nesamithran",
@@ -13,7 +13,7 @@ var data=[
     "bio": "-",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Poems"
+    "category": "Writer & Blogger"
   },
   {
     "handle_name": "https://twitter.com/DrTRM",
@@ -21,7 +21,7 @@ var data=[
     "bio": "DM me for kids related queries .",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Medical"
+    "category": "Health & Medical"
   },
   {
     "handle_name": "https://twitter.com/erode_kathir",
@@ -38,7 +38,7 @@ var data=[
     "bio": "The daily newspaper உலகின் ஒரே பகுத்தறிவு நாளேடு - திராவிடர் கழகம் - பெரியார் - வீரமணி - திராவிடர் இயக்கம் - பகுத்தறிவு - Periyar-veeramani-dravidarkazhagam",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "News, Rationalist, Society"
+    "category": "Writer & Blogger,Literature"
   },
   {
     "handle_name": "https://twitter.com/donupdates_in",
@@ -46,7 +46,7 @@ var data=[
     "bio": "Credible and Fastest News Portal | Single Window Destination for Real Time Updates, Breaking News and Government Notifications",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "News"
+    "category": "News & Journalism"
   },
   {
     "handle_name": "https://twitter.com/KATHAIKALPDF",
@@ -54,7 +54,7 @@ var data=[
     "bio": "உங்களை சற்று நேரம் சிறுவனாகவோ சிறுமியாகவோ மாற்றும் சக்தி கொண்டவன் நான் ( @iamosthi2 )",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Writing, Reading, Book"
+    "category": "Writer & Blogger,Literature"
   },
   
   {
@@ -71,7 +71,7 @@ var data=[
     "bio": "Interests on FOSS, தமிழ், Programming; Most recently: Startups",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Tech, Blogging"
+    "category": "Tech, Writer & Blogger"
   },
   {
     "handle_name": "https://twitter.com/skpkaruna",
@@ -87,7 +87,7 @@ var data=[
     "bio": "Writer & Learning Technology Evangelist working with Origin Learning Solutions as Senior Director - Technology.",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Tech, Blogging, Writing"
+    "category": "Tech,Writer & Blogger"
   },
   {
     "handle_name": "https://twitter.com/BalaramanL",
@@ -95,7 +95,7 @@ var data=[
     "bio": "Entrepreneur. Researcher. Tamil Blogger. Short-film maker/writer/actor in @Kalaipori. Editor in @cookploration. More info: http://about.me/BalaramanL",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Tech, Blogging, Cooking"
+    "category": "Tech,Cooking"
   },
   {
     "handle_name": "https://twitter.com/japan_raghu",
@@ -144,7 +144,7 @@ var data=[
     "bio": "A Linux Lover. Editor of free software magazine in Tamil http://kaniyam.com  Free Tamil Ebook Publisher at http://FreeTamilEbooks.com",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Tech, Writing, Blogger"
+    "category": "Tech,Writer & Blogger,Literature"
   },
   {
     "handle_name": "https://twitter.com/Periyaarism",
@@ -184,7 +184,7 @@ var data=[
     "bio": "One Stop Shop for all books related to Periyar, Dravidian Movement & Social Justice",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Books"
+    "category": "Writer & Blogger,Literature"
   },
   {
     "handle_name": "https://twitter.com/ikrthik",
@@ -192,7 +192,7 @@ var data=[
     "bio": "உங்களுக்குப் பிடித்தமாதிரி எழுதவேண்டும் என்றால் நீங்கள்தான் எழுதவேண்டும்.",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Writing,Poems,Tamil"
+    "category": "Writer & Blogger,Tamil"
   },
   {
     "handle_name": "https://twitter.com/kryes",
@@ -208,7 +208,7 @@ var data=[
     "bio": "Author, Freelance Writer, Translator, Opinions are mine and do not necessarily represent the postings, strategies or opinions of the company I work for",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Blogger, Writer, Tech"
+    "category": "Writer & Blogger, Tech"
   },
   {
     "handle_name": "https://twitter.com/OldTamilPoetry",
@@ -216,7 +216,7 @@ var data=[
     "bio": "All of us could do with some ancient wisdom and poetry, don't you agree? Original translations of Classical Tamil Poetry. I am @chenthil_nathan",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Blogger, Tamil"
+    "category": "Writer & Blogger,Literature, Tamil"
   },
   {
     "handle_name": "https://twitter.com/FreeTamilEbooks",
@@ -224,7 +224,7 @@ var data=[
     "bio": "Free Ebooks in Tamil Language for kindle, android and computers in Creative Commons license. Read and Share them all.",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Books"
+    "category": "Writer & Blogger,Literature"
   },
   {
     "handle_name": "https://twitter.com/praddy06",
@@ -232,7 +232,7 @@ var data=[
     "bio": "A Common man and damn i love rains than anything else, please note that i am not a meteorologist nor an expert in Weather.",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "News"
+    "category": "News & Journalism"
   },
   {
     "handle_name": "https://twitter.com/TamilYourstory",
@@ -240,7 +240,7 @@ var data=[
     "bio": "YourStory is India’s leading media platform for entrepreneurs & the entrepreneurial ecosystem.",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Tech, News"
+    "category": "News & Journalism"
   },
   {
     "handle_name": "https://twitter.com/madhankarky",
@@ -248,7 +248,7 @@ var data=[
     "bio": "Tamil Lyricist, Dialogue Writer / Tamil Computing Researcher / Author @iPaatti / Founder @KaReFo / Co-Founder & President @doopaadoo / http://facebook.com/Madhankarky",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Writing, Tamil, Cinema"
+    "category": "Tamil, Cinema"
   },
   {
     "handle_name": "https://twitter.com/VasagaSalai",
@@ -256,7 +256,7 @@ var data=[
     "bio": "புத்தகம் பற்றிய விவாதங்கள் மூலம் வாசிப்பு குறித்த புரிதலை மேம்படுத்த இந்த குழுமம். ",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Books, Writing"
+    "category": "Writer & Blogger,Literature"
   },
   {
     "handle_name": "https://twitter.com/hasifkhan",
@@ -272,7 +272,7 @@ var data=[
     "bio": "The official twitter page of India's prestigious Anna Centenary Library, known as ACL. The pride of Tamilnadu which was established on September 15, 2010.",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Books, Writing"
+    "category": "Writer & Blogger,Literature"
   },
   {
     "handle_name": "https://twitter.com/muyuvaraj",
@@ -296,7 +296,7 @@ var data=[
     "bio": "Media | Writing | Music | Cinema | Friends | Love Everyone. No silly ரசிகச்சண்டை with me Pls!",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "News, General"
+    "category": "General"
   },
   {
     "handle_name": "https://twitter.com/kanapraba",
@@ -312,7 +312,7 @@ var data=[
     "bio": "செய்திகளை ஸ்மார்ட்டாகத் தெரிந்துகொள்ள உதவும் தமிழ் நியூஸ்லெட்டர். இனி உங்களின் தினசரி நியூஸ் டயட்... தினமும் காலை 7 மணிக்கு உங்கள் இன்பாக்ஸில்! Do Subscribe 👇",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "News, General"
+    "category": "News & Journalism, General"
   },
   {
     "handle_name": "https://twitter.com/swathikasarah",
@@ -320,7 +320,7 @@ var data=[
     "bio": "Reader, Atheist, Back of the book indexer",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Books"
+    "category": "Writer & Blogger,Literature"
   },
   {
     "handle_name": "https://twitter.com/Bharathi_BFC",
@@ -328,7 +328,7 @@ var data=[
     "bio": "வாசிப்பை நேசிப்போம்",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Books"
+    "category": "Writer & Blogger,Literature"
   },
   {
     "handle_name": "https://twitter.com/tamilreadrsclub",
@@ -336,7 +336,7 @@ var data=[
     "bio": "Tamil Readers  Club | தமிழ் வாசகர் வட்டம்",
     "location": "-",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Books"
+    "category": "Writer & Blogger,Literature"
   },
 {
     "handle_name": "https://twitter.com/gmuruganandi",
@@ -352,7 +352,7 @@ var data=[
     "bio": "நீயென் சுவிஷேசம்",
     "location": "",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Writing,Poems,Tamil"
+    "category": "Writer & Blogger,Literature"
   },
   {
     "handle_name": "https://twitter.com/CryptoTamil",
@@ -392,7 +392,7 @@ var data=[
     "bio": "-",
     "location": "",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "General,Tech,Blogging"
+    "category": "General,Writer & Blogger,Literature"
   },
   {
     "handle_name": "https://twitter.com/ramalingamdr",
@@ -400,7 +400,7 @@ var data=[
     "bio": "-",
     "location": "",
     "profile_pic": "https://besttweepshere.github.io/assets/twitter_blue.png",
-    "category": "Medical"
+    "category": "Health & Medical"
   },
   {
     "handle_name": "https://twitter.com/aram_Gj",
